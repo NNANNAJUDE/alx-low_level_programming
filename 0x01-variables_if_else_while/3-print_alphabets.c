@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - function to print in the lowercase
- * Return: 0 if successful 
+ * Return: 0 if successful
  */
 int main(void)
 {
