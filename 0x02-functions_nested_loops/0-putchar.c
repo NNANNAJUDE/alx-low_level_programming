@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * main - entry point
- * Return: on 1 successful
- * -1 failed and errors channelled approriately
+ * Return: on 0 successful
+ * failed and errors channelled approriately
  */
 int main(void)
 {
