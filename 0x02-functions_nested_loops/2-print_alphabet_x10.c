@@ -4,16 +4,14 @@
  * print_alphabet_×10 - function to print alphabet
  * Return: 0 on success
  */
-
 void print_alphabet_×10(void)
 {
 	int alphabet;
 	int count;
 
-
 	count = 0;
 	while (count < 10)
-{
+	{
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
 		_putchar(alphabet);
@@ -21,6 +19,7 @@ void print_alphabet_×10(void)
 
 	count++;
 	_putchar('\n');
-}
+
+	}
 
 }
