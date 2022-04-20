@@ -1,12 +1,14 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
  * Return: Always 0 (Success/completed)
  */
-int main(void)
 
+int main(void)
 {
+
 int number_left;
 int number_right;
 
