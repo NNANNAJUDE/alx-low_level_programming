@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ * main - function description
+ * Return: return successful
+ */
 int main(void)
 {
 int n;
