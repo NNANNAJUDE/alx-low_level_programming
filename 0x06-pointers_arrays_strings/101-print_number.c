@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *print_number - print a number using _putchar.
- *@n: the number to be printed.
- */
+*print_number - print a number using _putchar.
+*@n: the number to be printed.
+*/
 
 void print_number(int n)
 {
@@ -23,7 +23,7 @@ i *= 10;
 
 while (i > 0)
 {
-_putchar((n / i) + '0');
+_putchar((n / i) +'0');
 n %= i;
 i /= 10;
 }
